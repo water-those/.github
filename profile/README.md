@@ -1,7 +1,7 @@
 ![](https://github.com/water-those/.github/blob/main/profile/cover.gif)
 ## Hi there, we're team AquaFlo!💦
 
-Many Sub-Saharan Africans rely on hand pumps for getting water, yet an estimated ⅓ of the hand pumps are out of service at any given time. As a team passionate about using technology for social good, we came up with two different technical solutions: a mobile app and SMS/IVR system to make it accessible for communities to easily set up and address issues effectively and inexpensively!
+Many Sub-Saharan Africans rely on hand pumps for getting water, yet an estimated **⅓ of the hand pumps are out of service at any given time.** As a team **passionate** about using technology for social good, we came up with two different technical solutions: a mobile app and SMS/IVR system to make it accessible for communities to easily set up and address issues **effectively** and **inexpensively**!
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/239px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" width="30" height="20.7" /> Check out our <a href="https://www.youtube.com/watch?v=r6hLBj1Y3mY">Pitch Video</a>
@@ -14,13 +14,3 @@ Many Sub-Saharan Africans rely on hand pumps for getting water, yet an estimated
 <em>Submitted to <a href="https://xyleminnovationchallenge-platform.bemyapp.com/">Xylem's Innovation Challenge 2022</a></em>
 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
