@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![](../cover.gif)
+## Hi there, we're team AquaFlo
 <!--
 
 **Here are some ideas to get you started:**
