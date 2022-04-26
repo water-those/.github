@@ -1,4 +1,4 @@
-![](cover.gif)
+![](https://github.com/water-those/.github/blob/main/profile/cover.gif)
 ## Hi there, we're team AquaFlo
 <!--
 
