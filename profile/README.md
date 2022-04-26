@@ -1,4 +1,4 @@
-![](../cover.gif)
+![](cover.gif)
 ## Hi there, we're team AquaFlo
 <!--
 
