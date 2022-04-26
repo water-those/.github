@@ -3,7 +3,7 @@
 
 Many Sub-Saharan Africans rely on hand pumps for getting water, yet an estimated ⅓ of the hand pumps are out of service at any given time. As a team passionate about using technology for social good, we came up with two different technical solutions: a mobile app and SMS/IVR system to make it accessible for communities to easily set up and address issues effectively and inexpensively!
 
-<div align="center">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/239px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" width="30" height="20.7" /> Check out our <a href="https://www.youtube.com/watch?v=r6hLBj1Y3mY">Pitch Video</a>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/349px-Google_Slides_logo_%282014-2020%29.svg.png" width="20" height="25" /> Check out our <a href="https://docs.google.com/presentation/u/0/?authuser=0&usp=slides_web">Slide Deck</a>
@@ -13,7 +13,7 @@ Many Sub-Saharan Africans rely on hand pumps for getting water, yet an estimated
 <br>
 <em>Submitted to <a href="https://xyleminnovationchallenge-platform.bemyapp.com/">Xylem's Innovation Challenge 2022</a></em>
 
-</div>
+
 <!--
 
 **Here are some ideas to get you started:**
