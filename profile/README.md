@@ -11,6 +11,6 @@ Many Sub-Saharan Africans rely on hand pumps for getting water, yet an estimated
 <img src="https://uploads-ssl.webflow.com/5e1e25a0651a9aeb95b8f7bd/600f540caa9d75af40abaa3e_668cccb3f734f342e07c0185e6d9a975.png" width="25" height="25" /> Check out our <a href="https://www.figma.com/file/WCBxdXBDAW5cKtRNoDIEoY/App-Design">Design</a>
 <br>
 <br>
-<em>Submitted to <a href="https://xyleminnovationchallenge-platform.bemyapp.com/">Xylem's Innovation Challenge 2022</a></em>
+<em>Won Grand Prize at <a href="https://xyleminnovationchallenge-platform.bemyapp.com/">Xylem's Ignite Innovation Challenge 2022</a></em>
 
 
